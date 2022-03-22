@@ -1,5 +1,5 @@
-Certificates
-Sololearn
-NDG Linux
-First day on Github Screenshot
+Certificates,
+Sololearn,
+NDG Linux,
+First day on Github Screenshot,
 Simplilearn
