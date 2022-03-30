@@ -9,7 +9,7 @@ int main(){
     scanf("%f",&num1);
 
     printf("enter the operation :");
-    scanf(" %c",&op);
+    scanf("%c",&op);
 
     printf("enter the second number");
     scanf("%f",&num2);
