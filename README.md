@@ -1,2 +1,2 @@
-# M1_Project1
-Naming Convention "M1_Project1"
+# M1_Project_2022
+Naming Convention "M1_Project_2022"
